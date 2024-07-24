@@ -44,3 +44,4 @@ And the version flag.
 
 From this point, I could push my own update to their binary, and every user of the BOT would unknowingly receive my code. This is obviously a significant security flaw. I've already informed the author about it, but there hasn't been a fix yet.
 
+![Yikes](Yikes.png)
