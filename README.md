@@ -44,6 +44,3 @@ And the version flag.
 
 From this point, I could push my own update to their binary, and every user of the BOT would unknowingly receive my code. This is obviously a significant security flaw. I've already informed the author about it, but there hasn't been a fix yet.
 
----
-
-Feel free to adjust the image links (`link-to-...`) to match your actual images. This structure maintains a casual tone while organizing the content into readable sections with clear titles.
